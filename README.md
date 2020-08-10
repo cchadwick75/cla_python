@@ -24,15 +24,15 @@ git clone https://github.com/cchadwick75/cla_python
 ## How To Use Each Argument
 It should be noted that each argument should only be run individually.
 
-### 1.  --iloc - shows the current location of the ISS
+### 1.  Location (--loc) shows the current location of the ISS
 
 In your terminal window navigate to the directory you cloned the project and run the command below.  
 ```
 python pycommand.py --loc
 ```
-This will
 
-### 2.  --pass - display next dates, and times that the ISS will pass over the coordinates entered.
+
+### 2.  Pass (--pass) display next dates, and times that the ISS will pass over the coordinates entered.
 
 This argument takes parameters of Latitude and Longitude, enter the Latitude first always.  
 This Latitude and Longitude in this snippit are just examples, use your own Latitude and Longitude. 
@@ -40,10 +40,10 @@ This Latitude and Longitude in this snippit are just examples, use your own Lati
 ```
 python pycommand.py --pass -22.9465 -85.6556
 ```
-This will display dates and times in the near future that the ISS will pass over the coordinates entered
 
-### 3.  --people -  displays how many people are currently in space, the spacecraft, and names.
-In your terminal window navigate to the directory you cloned the project and run the command below.  
+### 3.  People (--people) displays how many people are currently in space, the spacecraft, and names.
+
+In your terminal window navigate to the directory you cloned the project and run the command below.
 ```
 python pycommand.py --people
 ```
