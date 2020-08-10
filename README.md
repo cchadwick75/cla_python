@@ -11,11 +11,12 @@ git clone https://github.com/cchadwick75/cla_python
 ```
 
 ### 2.  Activate Virtual Environment
-        a.  Navigate to cla_python
-        b.  ```source venv/bin/activate```
 
-### 3.  Install requirements.txt
-        a.  While in virtual environment
+        Navigate to cla_python directory and run the following command
+
+        ```source venv/bin/activate```
+
+### 3.  Install requirements.txt while inside (venv)
         b.  ```pip3 install -r requirements.txt```
 
 ### Installation Complete
