@@ -8,16 +8,17 @@ http://open-notify.org/
 ### 1.  Clone Repository CLA repository
 ```
 git clone https://github.com/cchadwick75/cla_python
+
 ```
 
 ### 2.  Activate Virtual Environment
 
-        Navigate to cla_python directory and run the following command
+Navigate to cla_python directory and run the following command
 
-        ```source venv/bin/activate```
+        source venv/bin/activate
 
 ### 3.  Install requirements.txt while inside (venv)
-        b.  ```pip3 install -r requirements.txt```
+            pip3 install -r requirements.txt
 
 ### Installation Complete
 
